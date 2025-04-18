@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://maria-sanvil.github.io/sitemap.xml
